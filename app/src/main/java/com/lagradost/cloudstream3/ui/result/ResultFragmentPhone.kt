@@ -430,16 +430,16 @@ open class ResultFragmentPhone : FullScreenPlayer() {
                     if (newStatus == null) return@toggleSubscriptionStatus
 
                     val message = if (newStatus) {
-                            // Kinda icky to have this here, but it works.
-                            SubscriptionWorkManager.enqueuePeriodicWork(context)
-                            R.string.subscription_new
-                        } else {
-                            R.string.subscription_deleted
-                        }
+                        // Kinda icky to have this here, but it works.
+                        SubscriptionWorkManager.enqueuePeriodicWork(context)
+                        R.string.subscription_new
+                    } else {
+                        R.string.subscription_deleted
+                    }
 
-                        val name = (viewModel.page.value as? Resource.Success)?.value?.title
-                            ?: txt(R.string.no_data).asStringNull(context) ?: ""
-                        showToast(txt(message, name), Toast.LENGTH_SHORT)
+                    val name = (viewModel.page.value as? Resource.Success)?.value?.title
+                        ?: txt(R.string.no_data).asStringNull(context) ?: ""
+                    showToast(txt(message, name), Toast.LENGTH_SHORT)
                 }
                 context?.let { openBatteryOptimizationSettings(it) }
             }
@@ -873,10 +873,11 @@ open class ResultFragmentPhone : FullScreenPlayer() {
                         }
                         resultSyncCurrentEpisodes.text =
                             Editable.Factory.getInstance()?.newEditable(watchedEpisodes.toString())
-                        normalSafeApiCall { // format might fail
+                        normalSafeApiCall {
                             context?.getString(R.string.sync_score_format)?.format(d.score ?: 0)
                                 ?.let {
-                                    resultSyncScoreText.text = it
+                                    resultSyncScoreText.text =
+                                        Editable.Factory.getInstance().newEditable(it)
                                 }
                         }
                     }
