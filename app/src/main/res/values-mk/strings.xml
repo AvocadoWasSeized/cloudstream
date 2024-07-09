@@ -420,7 +420,7 @@
     <string name="subscription_list_name">Претплатени</string>
     <string name="subtitle_offset_hint">1000 ms</string>
     <string name="nsfw_singular">NSFW</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="sync_total_episodes_none">/\?\?</string>
     <string name="example_email">hello@world.com</string>
     <string name="go_forward_30">+30</string>

@@ -237,7 +237,7 @@
     <string name="jsdelivr_proxy">raw.githubusercontent.com Proxy</string>
     <string name="duration">Trvanie</string>
     <string name="app_storage">Aplikácia</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="added_sync_format" formatted="true">Pridané %s</string>
     <string name="documentaries_singular">Dokument</string>
     <string name="episode_action_chromecast_mirror">Chromecast zrkadlo</string>

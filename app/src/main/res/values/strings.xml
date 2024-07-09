@@ -515,9 +515,10 @@
     <string name="added_sync_format" formatted="true">Added %s</string>
     <string name="upload_sync">Sync</string>
     <string name="sync_score">Rated</string>
-    <string name="sync_score_format" formatted="true">%d /10</string>
-    <string name="sync_total_episodes_none">/??</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_score_max">/ 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
+    <string name="sync_total_episodes_none">/ ??</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="authenticated_user" formatted="true">%s authenticated</string>
     <string name="authenticated_user_fail" formatted="true">Could not log in at %s</string>
     <!-- ============ -->

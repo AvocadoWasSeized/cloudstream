@@ -923,7 +923,7 @@ open class ResultFragmentPhone : FullScreenPlayer() {
                 }
 
                 resultSyncRating.addOnChangeListener { _, value, _ ->
-                    syncModel.setScore(value.toInt())
+                    syncModel.setScore(value)
                 }
 
                 resultSyncAddEpisode.setOnClickListener {

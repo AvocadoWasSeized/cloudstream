@@ -54,8 +54,8 @@
     <string name="logout">লগ আউট</string>
     <string name="sync_score">সমন্বয় সংখ্যা</string>
     <string name="sync_score_format" formatted="true">%d</string>
-    <string name="sync_total_episodes_none">/??</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_none">/ ??</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="authenticated_user" formatted="true">%s প্ৰমাণিত</string>
     <string name="authenticated_user_fail" formatted="true">%s ত লগ ইন কৰিব পৰা নহয়</string>
     <string name="error_invalid_data">অবৈধ ডেটা</string>

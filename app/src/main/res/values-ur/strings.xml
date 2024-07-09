@@ -319,7 +319,7 @@
     <string name="logout">لاگ آوٹ</string>
     <string name="login">لاگ ان کریں</string>
     <string name="sync_total_episodes_none">/\?\?</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="authenticated_user" formatted="true">%s تصدیق شدہ</string>
     <string name="authenticated_user_fail" formatted="true">%s پر لاگ ان نہیں ہو سکا</string>
     <string name="none">کچھ نہیں</string>

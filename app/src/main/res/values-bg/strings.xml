@@ -319,7 +319,7 @@
     <string name="sync_score">Оценен</string>
     <string name="sync_score_format" formatted="true">%d</string>
     <string name="sync_total_episodes_none">/\?\?</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string formatted="true" name="authenticated_user">%s удостоверен</string>
     <string formatted="true" name="authenticated_user_fail">Не можах да вляза в %s</string>
     <string name="none">Нито един</string>

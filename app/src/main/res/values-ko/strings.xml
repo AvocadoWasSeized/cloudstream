@@ -249,7 +249,7 @@
     <string name="upload_sync">동기화</string>
     <string name="sync_score_format" formatted="true">%d</string>
     <string name="sync_total_episodes_none">/\?\?</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="authenticated_user" formatted="true">%s 인증됨</string>
     <string name="authenticated_user_fail" formatted="true">다음에 로그인할 수 없음 %s</string>
     <string name="none">없음</string>

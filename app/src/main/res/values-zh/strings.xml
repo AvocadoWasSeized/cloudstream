@@ -357,7 +357,7 @@
     <string name="sync_score">评分</string>
     <string name="sync_score_format" formatted="true">%d</string>
     <string name="sync_total_episodes_none">/\?\?</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="authenticated_user" formatted="true">已验证 %s</string>
     <string name="authenticated_user_fail" formatted="true">无法登录到 %s</string>
     <!-- ============ -->

@@ -56,7 +56,7 @@ interface SyncAPI : OAuth2API {
         abstract var status: SyncWatchType
 
         /** 1-10 */
-        abstract var score: Int?
+        abstract var score: Float?
         abstract var watchedEpisodes: Int?
         abstract var isFavorite: Boolean?
         abstract var maxEpisodes: Int?
@@ -66,7 +66,7 @@ interface SyncAPI : OAuth2API {
     data class SyncStatus(
         override var status: SyncWatchType,
         /** 1-10 */
-        override var score: Int?,
+        override var score: Float?,
         override var watchedEpisodes: Int?,
         override var isFavorite: Boolean? = null,
         override var maxEpisodes: Int? = null,

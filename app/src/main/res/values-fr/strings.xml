@@ -372,7 +372,7 @@
     <string name="example_ip">127.0.0.1</string>
     <string name="sync_score_format" formatted="true">%d</string>
     <string name="sync_total_episodes_none">/\?\?</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="quality_sd">SD</string>
     <string name="quality_uhd">UHD</string>
     <string name="quality_hdr">HDR</string>

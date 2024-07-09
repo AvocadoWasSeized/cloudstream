@@ -399,7 +399,7 @@
     <string name="subscription_episode_released">Megjelent a(z) %d epizód!</string>
     <string name="quality_sd">SD</string>
     <string name="example_lang_name">Nyelvkód (hu)</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="subtitles_raised">Emelt</string>
     <string name="quality_hd">HD</string>
     <string name="hls_playlist">HLS lejátszási lista</string>

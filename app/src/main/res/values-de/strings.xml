@@ -320,7 +320,7 @@
     <string name="sync_score">Bewertung</string>
     <string name="sync_score_format" formatted="true">%d</string>
     <string name="sync_total_episodes_none">/\?\?</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="authenticated_user" formatted="true">%s authentifiziert</string>
     <string name="authenticated_user_fail" formatted="true">Die Authentifizierung bei %s ist fehlgeschlagen</string>
     <string name="none">Keine</string>

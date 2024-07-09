@@ -233,7 +233,7 @@
     <string name="sync_score">Vurdert</string>
     <string name="sync_score_format" formatted="true">%d</string>
     <string name="sync_total_episodes_none">/\?\?</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="recommended">Anbefalt</string>
     <string name="player_load_subtitles">Last inn fra fil</string>
     <string name="player_load_subtitles_online">Last inn fra Internett</string>

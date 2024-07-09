@@ -157,7 +157,7 @@ class SyncViewModel : ViewModel() {
         }
     }
 
-    fun setScore(score: Int) {
+    fun setScore(score: Float) {
         Log.i(TAG, "setScore = $score")
         val user = userData.value
         if (user is Resource.Success) {

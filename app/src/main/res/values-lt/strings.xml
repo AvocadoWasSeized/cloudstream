@@ -178,7 +178,7 @@
     <string name="storage_error">Atsiuntimo klaida, patikrinkite atminties leidimus</string>
     <string name="pref_category_android_tv">Android TV</string>
     <string name="asian_drama_singular">Azijietiška drama</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="source_error">Šaltinio klaida</string>
     <string name="view_public_repositories_button_short">Viešas sąrašas</string>
     <string name="example_ip">127.0.0.1</string>
