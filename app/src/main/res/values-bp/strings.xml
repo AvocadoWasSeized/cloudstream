@@ -320,7 +320,7 @@
     <string name="added_sync_format" formatted="true">%s adicionado</string>
     <string name="upload_sync">Sincronizar</string>
     <string name="sync_score">Nota</string>
-    <string name="sync_score_format" formatted="true">%d / 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="sync_total_episodes_none">/\?\?</string>
     <string name="sync_total_episodes_some" formatted="true">/%d</string>
     <string name="authenticated_user" formatted="true">%s autenticado</string>

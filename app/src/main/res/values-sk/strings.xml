@@ -246,7 +246,7 @@
     <string name="storage_error">Chyba pri sťahovaní, skontrolujte povolenia k úložisku</string>
     <string name="primary_color_settings">Primárna farba</string>
     <string name="create_account">Vytvoriť účet</string>
-    <string name="sync_score_format" formatted="true">%d / 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="resize_zoom">Priblížiť</string>
     <string name="torrent">Torrenty</string>
     <string name="limit_title_rez">Rozlíšenie prehrávača</string>

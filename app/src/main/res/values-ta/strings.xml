@@ -488,7 +488,7 @@
     <string name="added_sync_format" formatted="true">சேர்க்கப்பட்டது %கள்</string>
     <string name="upload_sync">ஒத்திசைவு</string>
     <string name="sync_score">மதிப்பிடப்பட்டது</string>
-    <string name="sync_score_format" formatted="true">%d / 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="sync_total_episodes_none">/??</string>
     <string name="authenticated_user_fail" formatted="true">%S இல் உள்நுழைய முடியவில்லை</string>
     <string name="disable">முடக்கு</string>

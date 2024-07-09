@@ -284,7 +284,7 @@
     <string name="chromecast_subtitles_settings_des">Inställningar för Chromecast-undertexter</string>
     <string name="tv_layout">TV-layout</string>
     <string name="create_account">Skapa konto</string>
-    <string name="sync_score_format" formatted="true">%d / 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="sync_total_episodes_none">/\?\?</string>
     <string name="sync_total_episodes_some" formatted="true">/%d</string>
     <string name="subtitle_offset_extra_hint_later_format">Använd detta om undertexterna visas %d ms för tidigt</string>

@@ -303,7 +303,7 @@
     <string name="added_sync_format" formatted="true">Dodano %s</string>
     <string name="upload_sync">Synchronizacja</string>
     <string name="sync_score">Oceniono</string>
-    <string name="sync_score_format" formatted="true">%d na 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="authenticated_user" formatted="true">Uwierzytelniono %s</string>
     <string name="authenticated_user_fail" formatted="true">Nie udało się uwierzytelnić %s</string>
     <!-- ============ -->

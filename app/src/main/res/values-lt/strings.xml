@@ -170,7 +170,7 @@
     <string name="remove_site_pref">Pašalinti puslapį</string>
     <string name="episode_action_reload_links">Perkrauti nuorodos</string>
     <string name="disable">Išjungti</string>
-    <string name="sync_score_format" formatted="true">%d / 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="pref_category_links">Nuorodos</string>
     <string name="resize_zoom">Pritraukti</string>
     <string name="resize_fit">Sutalpinti į ekraną</string>

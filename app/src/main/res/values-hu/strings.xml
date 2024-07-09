@@ -414,7 +414,7 @@
     <string name="view_public_repositories_button_short">Nyilvános lista</string>
     <string name="extension_status">Állapot</string>
     <string name="skip_type_recap">Összefoglaló</string>
-    <string name="sync_score_format" formatted="true">%d / 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="open_with">Megnyitás a következővel</string>
     <string name="uppercase_all_subtitles">Minden felirat nagybetűs</string>
     <string name="skip_type_intro">Intro</string>

@@ -495,7 +495,7 @@
     <string name="add_sync">စောင့်ကြည့်ခြင်းထည့်မည်</string>
     <string name="added_sync_format" formatted="true">ထည့်ပြီး %s</string>
     <string name="sync_score">အဆင့်သတ်မှတ်ထားပြီး</string>
-    <string name="sync_score_format" formatted="true">%d / 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="sync_total_episodes_none">/\?\?</string>
     <string name="authenticated_user" formatted="true">%s ချိတ်ဆက်ပြီး</string>
     <string name="disable">ပိတ်ပါ</string>

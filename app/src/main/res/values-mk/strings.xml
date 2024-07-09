@@ -288,7 +288,7 @@
     <string name="extension_version">Верзија</string>
     <string name="show_hd">Ознака за квалитет</string>
     <string name="plugin_singular">приклучок</string>
-    <string name="sync_score_format" formatted="true">%d / 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="provider_languages_tip">Гледајте видеа на овие јазици</string>
     <string name="extension_install_first">Прво инсталирајте ја наставката</string>
     <string name="episode_sync_settings">Ажурирајте го напредокот на часовникот</string>

@@ -332,7 +332,7 @@
     <string name="added_sync_format" formatted="true">Dodano %s</string>
     <string name="upload_sync">Sinkroniziraj</string>
     <string name="sync_score">Ocijenjeno</string>
-    <string name="sync_score_format" formatted="true">%d / 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="sync_total_episodes_none">/\?\?</string>
     <string name="sync_total_episodes_some" formatted="true">/%d</string>
     <string name="authenticated_user" formatted="true">%s ovjeren</string>

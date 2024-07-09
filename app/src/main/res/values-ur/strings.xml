@@ -351,7 +351,7 @@
     <string name="add_account">اکاؤنٹ شامل کریں</string>
     <string name="added_sync_format" formatted="true">شامل کیا گیا %s</string>
     <string name="sync_score">ریٹیڈ</string>
-    <string name="sync_score_format" formatted="true">%d / 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="subtitles_raised">اٹھایا</string>
     <string name="subtitle_offset_extra_hint_before_format">اگر سب ٹائٹلز %d ms بہت جلد دکھائے جائیں تو اسے استعمال کریں</string>
     <string name="skip_type_creddits">کریڈٹس</string>

@@ -402,7 +402,7 @@
     <string name="example_ip">127.0.0.1</string>
     <string name="example_site_name">NewSiteName</string>
     <string name="example_site_url">https://example.com</string>
-    <string name="sync_score_format" formatted="true">%d / 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="none">Ninguno</string>
     <string name="max">Máximo</string>
     <string name="min">Mínimo</string>

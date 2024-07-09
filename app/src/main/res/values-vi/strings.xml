@@ -321,7 +321,7 @@
     <string name="added_sync_format" formatted="true">Đã thêm %s</string>
     <string name="upload_sync">Đồng bộ</string>
     <string name="sync_score">Đánh giá</string>
-    <string name="sync_score_format" formatted="true">%d / 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="sync_total_episodes_none">/\?\?</string>
     <string name="sync_total_episodes_some" formatted="true">/%d</string>
     <string name="authenticated_user" formatted="true">Đã xác thực %s</string>

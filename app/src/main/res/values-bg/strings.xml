@@ -317,7 +317,7 @@
     <string formatted="true" name="added_sync_format">Добавен %s</string>
     <string name="upload_sync">Синхронизиране</string>
     <string name="sync_score">Оценен</string>
-    <string name="sync_score_format" formatted="true">%d / 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="sync_total_episodes_none">/\?\?</string>
     <string name="sync_total_episodes_some" formatted="true">/%d</string>
     <string formatted="true" name="authenticated_user">%s удостоверен</string>
