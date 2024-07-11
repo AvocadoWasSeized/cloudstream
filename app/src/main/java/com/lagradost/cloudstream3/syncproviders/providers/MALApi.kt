@@ -246,7 +246,7 @@ class MALApi(index: Int) : AccountManager(index), SyncAPI {
         val data =
             getDataAboutMalId(internalId)?.my_list_status //?: throw ErrorLoadingException("No my_list_status")
         return SyncAPI.SyncStatus(
-            score = data?.score?.toFloat(),
+            score = data?.score,
             status = SyncWatchType.fromInternalId(malStatusAsString.indexOf(data?.status)) ,
             isFavorite = null,
             watchedEpisodes = data?.num_episodes_watched,

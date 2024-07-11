@@ -778,7 +778,7 @@ class SimklApi(index: Int) : AccountManager(index), SyncAPI {
 
     class SimklSyncStatus(
         override var status: SyncWatchType,
-        override var score: Float?,
+        override var score: Int?,
         val oldScore: Int?,
         override var watchedEpisodes: Int?,
         val episodeConstructor: SimklEpisodeConstructor,
@@ -832,7 +832,7 @@ class SimklApi(index: Int) : AccountManager(index), SyncAPI {
                     )
                 }
                     ?: return null,
-                score = foundItem.user_rating?.toFloat(),
+                score = foundItem.user_rating,
                 watchedEpisodes = foundItem.watched_episodes_count,
                 maxEpisodes = searchResult.total_episodes,
                 episodeConstructor = episodeConstructor,
@@ -843,7 +843,7 @@ class SimklApi(index: Int) : AccountManager(index), SyncAPI {
         } else {
             return SimklSyncStatus(
                 status = SyncWatchType.fromInternalId(SimklListStatusType.None.value),
-                score = 0.toFloat(),
+                score = 0,
                 watchedEpisodes = 0,
                 maxEpisodes = if (searchResult.type == "movie") 0 else searchResult.total_episodes,
                 episodeConstructor = episodeConstructor,
@@ -861,7 +861,7 @@ class SimklApi(index: Int) : AccountManager(index), SyncAPI {
 
         val builder = SimklScoreBuilder.Builder()
             .apiUrl(this.mainUrl)
-            .score(status.score?.toInt(), simklStatus?.oldScore)
+            .score(status.score, simklStatus?.oldScore)
             .status(
                 status.status.internalId,
                 (status as? SimklSyncStatus)?.oldStatus?.let { oldStatus ->

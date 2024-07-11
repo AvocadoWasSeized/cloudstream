@@ -165,7 +165,7 @@ class AniListApi(index: Int) : AccountManager(index), SyncAPI {
         val data = getDataAboutId(internalId) ?: return null
 
         return SyncAPI.SyncStatus(
-            score = data.score?.toFloat(),
+            score = data.score,
             watchedEpisodes = data.progress,
             status = SyncWatchType.fromInternalId(data.type?.value ?: return null),
             isFavorite = data.isFavourite,
@@ -177,7 +177,7 @@ class AniListApi(index: Int) : AccountManager(index), SyncAPI {
         return postDataAboutId(
             id.toIntOrNull() ?: return false,
             fromIntToAnimeStatus(status.status.internalId),
-            status.score?.toInt(),
+            status.score,
             status.watchedEpisodes
         ).also {
             requireLibraryRefresh = requireLibraryRefresh || it
