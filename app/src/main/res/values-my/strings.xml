@@ -445,7 +445,7 @@
     <string name="login">အကောင့်ဝင်မည်</string>
     <string name="switch_account">အကောင့်ပြောင်းမည်</string>
     <string name="upload_sync">ချိန်ညိှခြင်း</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="player_load_subtitles_online">အင်တာနက်မှ တင်သွင်းမည်</string>
     <string name="actor_background">နောက်ခံ</string>
     <string name="authenticated_user_fail" formatted="true">အကောင့်မဝင်ရောက်နိုင်ပါ %s</string>
@@ -495,7 +495,7 @@
     <string name="add_sync">စောင့်ကြည့်ခြင်းထည့်မည်</string>
     <string name="added_sync_format" formatted="true">ထည့်ပြီး %s</string>
     <string name="sync_score">အဆင့်သတ်မှတ်ထားပြီး</string>
-    <string name="sync_score_format" formatted="true">%d / 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="sync_total_episodes_none">/\?\?</string>
     <string name="authenticated_user" formatted="true">%s ချိတ်ဆက်ပြီး</string>
     <string name="disable">ပိတ်ပါ</string>

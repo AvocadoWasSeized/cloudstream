@@ -30,7 +30,7 @@
     <string name="episode_action_play_in_format">%s‌ରେ ଚଲାଅ</string>
     <string name="episode_action_play_in_browser">ବ୍ରାଉଜର୍‌ରେ ଚଲାଅ</string>
     <string name="episode_action_download_subtitle">ଉପଶୀର୍ଷକ ଡାଉନଲୋଡ୍ କରିବା</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="sync_total_episodes_none">/\?\?</string>
     <string name="subscription_episode_released">ଅଧ୍ୟାୟ %d ମୁକ୍ତିଲାଭ କଲା!</string>
     <string name="episode_action_auto_download">ସ୍ୱତଃ ଡାଉନଲୋଡ୍</string>

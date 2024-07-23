@@ -528,7 +528,7 @@
     <string name="skip_type_intro">المقدمة</string>
     <string name="poster_image">صورة الپوستر</string>
     <string name="quality_blueray">Blu-ray</string>
-    <string name="sync_score_format" formatted="true">%d/10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="clipboard_too_large">النص كبير كتير. ما فينا ننسخو.</string>
     <string name="plugins_updated" formatted="true">عدد الإضافيات يللي تجددت: %d</string>
     <string name="delayed_update_notice">رح يتجدد الآپ وقتا تطلعو مِنو</string>
@@ -572,7 +572,7 @@
     <string name="enter_pin">حطو الأرقام السرية</string>
     <string name="subtitles_filter_lang">فَلتِر حسب اللغة المفضلة</string>
     <string name="confirm_exit_dialog">أكيد بدكون تطلعو؟</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="action_open_play">@string/home_play</string>
     <string name="action_remove_from_watched">شيلو من لايحة المحتوى الحاضرينو</string>
     <string name="skip_type_creddits">الإعتمادات</string>

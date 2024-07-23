@@ -306,7 +306,7 @@
     <string name="added_sync_format" formatted="true">Добавлено %s</string>
     <string name="upload_sync">Синхронизировать</string>
     <string name="sync_score">Оценено</string>
-    <string name="sync_score_format" formatted="true">%d из 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="safe_mode_crash_info">Посмотреть информацию о сбое</string>
     <string name="player_pref">Предпочитаемый видеоплеер</string>
     <string name="player_settings_play_in_browser">Веб-браузер</string>
@@ -364,7 +364,7 @@
     <string name="action_open_play">@string/home_play</string>
     <string name="double_tap_to_seek_settings">Перемотка двойным нажатием</string>
     <string name="sync_total_episodes_none">/\?\?</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="is_adult">18+</string>
     <string name="plugin_load_fail" formatted="true">Не удалось загрузить %s</string>
     <string name="plugin">плагины</string>

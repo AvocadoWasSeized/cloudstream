@@ -249,7 +249,7 @@
     <string name="quality_uhd">UHD</string>
     <string name="repository_url_hint">כתובת אתר למאגר</string>
     <string name="preferred_media_settings">מדיה מועדפת</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="play_episode_toast">נגן את הפרק</string>
     <string name="no_links_found_toast">לא נמצאו קישורים</string>
     <string name="example_lang_name">קוד שפה (אנגלית)</string>
@@ -377,7 +377,7 @@
     <string name="added_sync_format" formatted="true">נוסף %s</string>
     <string name="upload_sync">סנכרן</string>
     <string name="sync_score">מדורג</string>
-    <string name="sync_score_format" formatted="true">%d / 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="sync_total_episodes_none">/\?\?</string>
     <string name="authenticated_user" formatted="true">%s מאומת</string>
     <string name="authenticated_user_fail" formatted="true">לא ניתן להתחבר ב %s</string>

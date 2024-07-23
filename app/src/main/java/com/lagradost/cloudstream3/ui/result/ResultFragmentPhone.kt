@@ -876,7 +876,8 @@ open class ResultFragmentPhone : FullScreenPlayer() {
                         normalSafeApiCall { // format might fail
                             context?.getString(R.string.sync_score_format)?.format(d.score ?: 0)
                                 ?.let {
-                                    resultSyncScoreText.text = it
+                                    resultSyncScoreText.text =
+                                        Editable.Factory.getInstance().newEditable(it)
                                 }
                         }
                     }

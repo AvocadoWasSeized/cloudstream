@@ -237,7 +237,7 @@
     <string name="jsdelivr_proxy">raw.githubusercontent.com Proxy</string>
     <string name="duration">Trvanie</string>
     <string name="app_storage">Aplikácia</string>
-    <string name="sync_total_episodes_some" formatted="true">/%d</string>
+    <string name="sync_total_episodes_some" formatted="true">/ %d</string>
     <string name="added_sync_format" formatted="true">Pridané %s</string>
     <string name="documentaries_singular">Dokument</string>
     <string name="episode_action_chromecast_mirror">Chromecast zrkadlo</string>
@@ -246,7 +246,7 @@
     <string name="storage_error">Chyba pri sťahovaní, skontrolujte povolenia k úložisku</string>
     <string name="primary_color_settings">Primárna farba</string>
     <string name="create_account">Vytvoriť účet</string>
-    <string name="sync_score_format" formatted="true">%d / 10</string>
+    <string name="sync_score_format" formatted="true">%d</string>
     <string name="resize_zoom">Priblížiť</string>
     <string name="torrent">Torrenty</string>
     <string name="limit_title_rez">Rozlíšenie prehrávača</string>
